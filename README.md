@@ -67,6 +67,3 @@ $addressData = $trc20Wallet->generateAddress();
 
 ## 合作
 
-联系方式
-- WX：zgf243944672
-- QQ：243944672
